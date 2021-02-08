@@ -8,7 +8,7 @@ Read these instructions carefully. Understand exactly what is expected _before_ 
 
 ### Commits
 
-Commit your code regularly and meaningfully. This helps both you and your team lead in case you ever need to return to old code for any number of reasons.
+Commit your code regularly and meaningfully. This helps both you and your GL/instructor in case you ever need to return to old code for any number of reasons.
 
 ### Description
 
@@ -19,7 +19,7 @@ In this project you'll take take an almost completed e-commerce store and refact
 ### Task 1: Project Set up
 
 - [ ] Create a forked copy of this project.
-- [ ] Add your team lead as collaborator on Github.
+- [ ] Add your GL/instructor as collaborator on Github.
 - [ ] Clone your OWN version of the repository in your terminal.
 - [ ] CD into the project base directory `cd react-shopping-cart`.
 - [ ] Download project dependencies by running `npm install`.
