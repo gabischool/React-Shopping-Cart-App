@@ -126,7 +126,7 @@ const { products, addItem } = useContext(ProductContext);
 
 - While were at it let's go ahead and remove the props from our navigation as well.
 
-**STEP 7 - The final stretch**
+**STEP 7 - The last step**
 
 - Our cart data is now being provided to us from our `CartContext` time to consume it!
 
