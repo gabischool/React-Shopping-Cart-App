@@ -2,8 +2,8 @@
 	border-radius: 5px;
 	background: white;
 	transition: 0.2s ease-in-out;
-	width: 333px;
-	margin: 30px;
+	width: 200px;
+	margin: 15px;
 
 	&:hover {
 		box-shadow: 0px 5px 37px -22px rgba(0, 0, 0, 1);
@@ -15,19 +15,20 @@
 
 	.title {
 		font-weight: bold;
-		margin: 10px 0 0 25px;
+		margin: 10px 0 0 8px;
 	}
 
 	.price {
-		margin-left: 25px;
+		margin-left: 8px;
 		padding: 5px 0;
 	}
 
 	img {
-		object-fit: contain;
+		display: block;
+		height: 250px;
 		border-top-left-radius: 5px;
 		border-top-right-radius: 5px;
-		max-width: 333px;
+		width: 200px;
 	}
 
 	button {
@@ -38,7 +39,7 @@
 		transition: 0.15s ease-in-out;
 		margin: 10px 0;
 		color: lightcoral;
-		margin-left: 25px;
+		margin-left: 8px;
 
 		&:hover {
 			cursor: pointer;
